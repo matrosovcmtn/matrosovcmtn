@@ -23,6 +23,7 @@
 
 **Repos:**
 
+- [`orchestrator-os`](https://github.com/matrosovcmtn/orchestrator-os) — supervisory AI control plane · FastAPI + SQLite · task routing, approval gates, operator UI · multi-project agent orchestration
 - [`llm-intake-pipeline`](https://github.com/matrosovcmtn/llm-intake-pipeline) — DeepSeek → OpenAI fallback chain for structured JSON output · used in production in Octery and CareerOS
 - [`multi-tenant-api-starter`](https://github.com/matrosovcmtn/multi-tenant-api-starter) — Hono.js + Drizzle ORM + schema-per-tenant Postgres + JWT with embedded roles · extracted from Octery
 
